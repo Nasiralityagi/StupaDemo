@@ -1,0 +1,2 @@
+rootProject.name='Stupa'
+include ':app'

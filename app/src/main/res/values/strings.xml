@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Stupa</string>
+    <string name="text_login">Login</string>
+    <string name="text_signup">Signup</string>
+    <string name="hint_name">Enter your full name.</string>
+    <string name="txt_gender">Gender</string>
+    <string name="txt_male">Male</string>
+    <string name="txt_female">Female</string>
+    <string name="txt_other">Other</string>
+    <string name="hint_email">Enter your email.</string>
+    <string name="hint_phone">Enter phone number.</string>
+    <string name="hint_password">Enter your password.</string>
+    <string name="txt_already_have_an_account">Already have an account?</string>
+    <string name="txt_dont_have_account">Don\'t have account?</string>
+    <string name="title_home">Stupa</string>
+</resources>
